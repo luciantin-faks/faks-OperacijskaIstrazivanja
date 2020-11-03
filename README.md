@@ -1,1 +1,1 @@
-# faks--OperacijskaIstrazivanja
+# faks-OperacijskaIstrazivanja
